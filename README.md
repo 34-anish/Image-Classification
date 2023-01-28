@@ -4,7 +4,7 @@
 `pip install tensorflow tensorflow-gpu opencv-python matplotlib`
 
 ## The accuracy 
-![3a409cf83cf5d9dfad668c5cd1a6e490.png](/_resources/f4f16e690b084ac6a7b3c57f44627a7f.png)
+![3a409cf83cf5d9dfad668c5cd1a6e490.png](/_resources/3a409cf83cf5d9dfad668c5cd1a6e490.png)
 ![639e494956cf932069818aff6f0de316.png](./_resources/2858ce64e08b4b89b06a01817902ce9d.png)
 There is no overfitting on this data
 ## Testing with the data
