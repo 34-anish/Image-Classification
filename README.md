@@ -4,14 +4,14 @@
 `pip install tensorflow tensorflow-gpu opencv-python matplotlib`
 
 ## The accuracy 
-![3a409cf83cf5d9dfad668c5cd1a6e490.png](../_resources/3a409cf83cf5d9dfad668c5cd1a6e490.png)
-![639e494956cf932069818aff6f0de316.png](../_resources/639e494956cf932069818aff6f0de316.png)
+![3a409cf83cf5d9dfad668c5cd1a6e490.png](./_resources/3a409cf83cf5d9dfad668c5cd1a6e490.png)
+![639e494956cf932069818aff6f0de316.png](./_resources/639e494956cf932069818aff6f0de316.png)
 There is no overfitting on this data
 ## Testing with the data
-![475b4b34a3e2696c30c6ad48f8424d2d.png](../_resources/475b4b34a3e2696c30c6ad48f8424d2d.png)
-![9abc823e0570c4b6c6fb85f7e3f550bb.png](../_resources/9abc823e0570c4b6c6fb85f7e3f550bb.png)
-![463753f83faea3e71b0091b8706092b4.png](../_resources/463753f83faea3e71b0091b8706092b4.png)
-![af4105932a8a9d89fc11b95b1db61536.png](../_resources/af4105932a8a9d89fc11b95b1db61536.png)
+![475b4b34a3e2696c30c6ad48f8424d2d.png](./_resources/475b4b34a3e2696c30c6ad48f8424d2d.png)
+![9abc823e0570c4b6c6fb85f7e3f550bb.png](./_resources/9abc823e0570c4b6c6fb85f7e3f550bb.png)
+![463753f83faea3e71b0091b8706092b4.png](./_resources/463753f83faea3e71b0091b8706092b4.png)
+![af4105932a8a9d89fc11b95b1db61536.png](./_resources/af4105932a8a9d89fc11b95b1db61536.png)
 
 ## Loading the data 
 Loading the data is an integral part for the image classification 
